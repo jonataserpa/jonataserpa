@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🏆 Goal: Be a better person every day
 - ⚡ Motto: Keep striving for progress, not perfection
 
-- "Details matter, it’s worth waiting and getting them right."
+### 😄 "Details matter, it’s worth waiting and getting them right." 😄
