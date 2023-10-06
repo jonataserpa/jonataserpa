@@ -1,5 +1,5 @@
 ### Hello and Welcome 👋, I'm Jonata Serpa 👋
-## 📫 "The only way to do something great is to love what you do. If you haven't found it yet, keep looking. Don't settle" 😄
+#### 📫 "The only way to do something great is to love what you do. If you haven't found it yet, keep looking. Don't settle" 😄
 
 <!--
 **jonataserpa/jonataserpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
