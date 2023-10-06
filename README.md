@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- "The only way to do something great is to love what you do. If you haven't found it yet, keep looking. Don't settle"
 
 - I'm a Father, Developer FullStack, Fullcycle, Musician, Mentor, and Future Content Creator
 - 👨🏽‍🎓 I enjoy teaching coding skills as well as helping students & fellow developers
@@ -22,3 +23,5 @@ Here are some ideas to get you started:
 - 📚 I'm constantly learning new skills and striving for progress how language GO
 - 🏆 Goal: Be a better person every day
 - ⚡ Motto: Keep striving for progress, not perfection
+
+- "Details matter, it’s worth waiting and getting them right."
