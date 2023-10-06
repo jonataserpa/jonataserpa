@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a Father, Developer FullStack, Fullcycle, Musician, Mentor, and Future Content Creator
+👨🏽‍🎓 I enjoy teaching coding skills as well as helping students & fellow developers
+🌱 I'm currently expanding my knowledge in microservices
+📚 I'm constantly learning new skills and striving for progress how language GO
+🏆 Goal: Be a better person every day
+⚡ Motto: Keep striving for progress, not perfection
