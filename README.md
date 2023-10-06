@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### 😄 "Details matter, it’s worth waiting and getting them right." 😄
 
-https://www.jonataserpa.com.br/
+#### my personal website: https://www.jonataserpa.com.br/
