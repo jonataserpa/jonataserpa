@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Motto: Keep striving for progress, not perfection
 
 ### 😄 "Details matter, it’s worth waiting and getting them right." 😄
+
+https://www.jonataserpa.com.br/
