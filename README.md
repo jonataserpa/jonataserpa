@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - I'm a Father, FullStack Developer, Fullcycle, Musician, Mentor, and Future Content Creator
-- 👨🏽‍🎓 I enjoy teaching coding skills as well as helping students & fellow developers
 - 🌱 I'm currently expanding my knowledge in microservices
 - 📚 I'm constantly learning new skills and striving for progress how language GO
 - 🏆 Goal: Be a better person every day
