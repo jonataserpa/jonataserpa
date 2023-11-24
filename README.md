@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I'm a Father, FullStack Developer, Fullcycle, Musician, Mentor, and Future Content Creator
 - 🌱 I'm currently expanding my knowledge in microservices
 - 📚 I'm constantly learning new skills and striving for progress how language GO
-- 🏆 Goal: Be a better person every day
+- 🏆 Goal: Be a better person every day, learning to live life
 - ⚡ Motto: Keep striving for progress, not perfection
 
 ### 😄 "Details matter, it’s worth waiting and getting them right." 😄
