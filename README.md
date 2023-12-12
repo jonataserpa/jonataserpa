@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ### 😄 "Details matter, it’s worth waiting and getting them right." 😄
 
 #### my personal website: https://www.jonataserpa.com.br/
+
+#### Portfolios: https://next14-defense.vercel.app/
