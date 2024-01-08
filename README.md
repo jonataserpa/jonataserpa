@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 PWA defense: https://next14-defense.vercel.app/
 
-clone netflix: https://next13-netflix-tau.vercel.app/
+Clone netflix: https://next13-netflix-tau.vercel.app/
 
 Zaia AI: https://zaia-ai-jonataserpa.vercel.app/
 
