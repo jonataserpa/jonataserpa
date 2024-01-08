@@ -32,6 +32,8 @@ PWA defense: https://next14-defense.vercel.app/
 
 clone netflix: https://next13-netflix-tau.vercel.app/
 
+Zaia AI: https://zaia-ai-jonataserpa.vercel.app/
+
 The way english: https://plataform.thewayenglishschool.com.br/
 
 
