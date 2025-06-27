@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 #### Portfolios: 
 
-LandingPaga: https://pro.bankfusion.com.br
+LandingPage: https://pro.bankfusion.com.br
 
 App Bank-Fusion: https://app.bankfusion.com.br/login
 
-API - Backend-Fusion: https://api.bankfusion.com.br/docs-ui
+API - Backend-Bank-Fusion: https://api.bankfusion.com.br/docs-ui
 
 PWA defense: https://next14-defense.vercel.app/
 
