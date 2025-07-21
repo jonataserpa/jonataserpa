@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📚 I'm constantly learning new skills and striving for progress how language GO
 - 🏆 Goal: Be a better person every day, learning to live life
 - ⚡ Motto: Keep striving for progress, not perfection
+- 💎 I don't work for the money; I work to create value.
+
 
 ### 😄 "Details matter, it’s worth waiting and getting them right." 😄
 
