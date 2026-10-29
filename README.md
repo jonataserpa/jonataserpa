@@ -34,6 +34,8 @@ T4 Code: https://t4-code-sable.vercel.app
 
 T4 Commerce: https://www.t4-commerce.com.br
 
+Biblioteca: https://biblioteca.t4-commerce.com.br/biblioteca
+
 T4 Agendamentos: https://scheduling.t4-commerce.com.br
 
 Tributei Certo: https://www.tributeicerto.com.br
@@ -46,7 +48,7 @@ App web Checkout PWA: https://web.t4-commerce.com.br/login
 
 API checkout: https://api.t4-commerce.com.br
 
-Checkout: https://checkout.jonataserpa.com.br/checkout-steps/b95138fa-1f94-46e2-a52f-17a4081640cf?products=debbcfd6-5e44-4b34-976d-a1b6369f3631
+Checkout: https://web.t4-commerce.com.br/checkout-steps/b95138fa-1f94-46e2-a52f-17a4081640cf?products=2dad0bd9-dd03-409f-bca5-47572269006d
 
 PWA defense: https://next14-defense.vercel.app/
 
